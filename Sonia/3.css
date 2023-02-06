@@ -1,0 +1,21 @@
+body{
+    font-size: 25px;
+    background-color:aquamarine;
+}
+
+.blu:active{
+    color: blue;
+}
+.blak:active{
+    color: black;
+}
+.wait:active{
+    color: white;
+}
+.rid:active{
+    color: red;
+}
+.pinc:active{
+    color: pink;
+}
+

@@ -1,0 +1,44 @@
+body{
+  background-color: orange;
+}
+
+ul{
+  color: blue;
+  font-size: 25px;
+}
+
+.emo:hover{
+  color: red;
+}
+
+.emo:active{
+  color: greenyellow;
+  font-size: 20px;
+}
+
+.film:hover{
+  color: blue;
+}
+
+.film:active{
+  color: greenyellow;
+  font-size: 20px;
+}
+
+.move:hover{
+  color: lightgreen;
+}
+
+.move:active{
+  color: greenyellow;
+  font-size: 20px;
+}
+
+.text{
+  font-size: 25px;
+  text-align: center;
+}
+
+.text:hover{
+  color: aqua;
+}
